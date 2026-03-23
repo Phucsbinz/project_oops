@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Oopsstudy\\SalesBicycleStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\generics\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\generics\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\walkincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\walkincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\membercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\membercustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\domain\\bicycleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\domain\\bicycleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\vat8percent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\vat8percent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\simplereceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\simplereceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\seasonaldiscountpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\seasonaldiscountpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\noorderdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\noorderdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\itaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\itaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\ireceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\ireceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\ipricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\ipricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\iorderdiscountpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\iorderdiscountpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\pricing\\defaultpricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\pricing\\defaultpricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\generics\\totalcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\generics\\totalcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\generics\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\generics\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|d:\\oopsstudy\\salesbicyclestore\\salesbicyclestore\\salesbicyclestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FBBC0AF-4BAB-4F46-AFA0-B1E62CD88E71}|SalesBicycleStore\\SalesBicycleStore.csproj|solutionrelative:salesbicyclestore\\salesbicyclestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeasonalDiscountPolicy.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\SeasonalDiscountPolicy.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\SeasonalDiscountPolicy.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\SeasonalDiscountPolicy.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\SeasonalDiscountPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:00:48.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Services\\OrderService.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Services\\OrderService.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:20:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Services\\InventoryService.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Services\\InventoryService.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Services\\InventoryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:19:14.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vat8Percent.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\Vat8Percent.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\Vat8Percent.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\Vat8Percent.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\Vat8Percent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:18:30.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SimpleReceiptFormatter.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:17:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoOrderDiscount.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\NoOrderDiscount.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\NoOrderDiscount.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\NoOrderDiscount.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\NoOrderDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:16:50.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITaxCalculator.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\ITaxCalculator.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\ITaxCalculator.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\ITaxCalculator.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\ITaxCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:16:17.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReceiptFormatter.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\IReceiptFormatter.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\IReceiptFormatter.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\IReceiptFormatter.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\IReceiptFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:15:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPriceRule.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\IPriceRule.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\IPriceRule.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\IPriceRule.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\IPriceRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:14:56.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderDiscountPolicy.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:14:16.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DefaultPriceRule.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\DefaultPriceRule.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Pricing\\DefaultPriceRule.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Pricing\\DefaultPriceRule.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Pricing\\DefaultPriceRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:13:45.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TotalCalculator.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Generics\\TotalCalculator.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Generics\\TotalCalculator.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Generics\\TotalCalculator.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Generics\\TotalCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:12:31.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Generics\\IRepository.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Generics\\IRepository.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Generics\\IRepository.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Generics\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:11:00.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Generics\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Generics\\InMemoryRepository.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Generics\\InMemoryRepository.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Generics\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:10:24.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WalkInCustomer.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\WalkInCustomer.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\WalkInCustomer.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\WalkInCustomer.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\WalkInCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:09:21.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SalesBicycleStore.csproj",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\SalesBicycleStore.csproj",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\SalesBicycleStore.csproj",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\SalesBicycleStore.csproj",
+              "RelativeToolTip": "SalesBicycleStore\\SalesBicycleStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T04:07:22.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BicycleProduct.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\BicycleProduct.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\BicycleProduct.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\BicycleProduct.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\BicycleProduct.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:06:18.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\OrderLine.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\OrderLine.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\OrderLine.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\OrderLine.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:04:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\Order.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Order.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\Order.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:01:37.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberCustomers.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\MemberCustomers.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\MemberCustomers.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\MemberCustomers.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\MemberCustomers.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:00:17.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Event.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\Event.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Event.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\Event.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wFkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:57:31.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Enum.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\Enum.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Enum.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:55:49.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Domain\\Customer.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Domain\\Customer.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:53:13.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Program.cs",
+              "RelativeDocumentMoniker": "SalesBicycleStore\\Program.cs",
+              "ToolTip": "D:\\Oopsstudy\\SalesBicycleStore\\SalesBicycleStore\\Program.cs",
+              "RelativeToolTip": "SalesBicycleStore\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:51:57.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

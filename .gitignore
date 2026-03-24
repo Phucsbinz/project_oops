@@ -1,0 +1,45 @@
+# .env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# .NET
+bin/
+obj/
+out/
+[Bb]uild/
+*.user
+*.userosscache
+*.sln.doccache
+
+# Visual Studio
+.vs/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+Visual Studio 2015/Backup Files/
+*.[Cc]ache
+!*.[Cc]ache/
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.doccache
+*.lsproj.user
+*.sqlproj.user
+*.wwaproj.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+.agents

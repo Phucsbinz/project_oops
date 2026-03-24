@@ -46,3 +46,4 @@ docker run --rm sales-bicycle-store
 - **Pricing**: Chứa các interface và logic liên quan đến giá, chiết khấu và thuế.
 - **Services**: Chứa logic nghiệp vụ chính như `OrderService` và `InventoryService` xử lý đơn hàng và tồn kho.
 - **Program.cs**: Điểm khởi chạy của ứng dụng, chứa toàn bộ kịch bản (scenario) demo.
+ 

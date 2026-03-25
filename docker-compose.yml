@@ -1,0 +1,10 @@
+services:
+  app:
+    image: salesbicyclestore:latest
+    container_name: sales-bicycle-store
+    environment:
+      - DOTNET_ENVIRONMENT=Development
+    env_file:
+      - .env
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t

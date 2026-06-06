@@ -1,4 +1,4 @@
-﻿using SalesBicycleStore.Domain;
+using SalesBicycleStore.Domain;
 using SalesBicycleStore.Generics;
 using SalesBicycleStore.Pricing;
 using System;
@@ -51,11 +51,7 @@ namespace SalesBicycleStore.Services
             if (customer == null) throw new InvalidOperationException("Customer not found");
 
             var order = new Order(customer, _priceRule, _orderDiscount, _orderSeasonalDiscount, _tax);
-            order.OrderStatusChanged += (s, e) =>
-            {
-                var handler = OrderStatusChanged;
-                if (handler != null) handler(this, e);
-            };
+            order.OrderStatusChanged += (s, e) => OrderStatusChanged?.Invoke(this, e);
 
             _orderRepo.Add(order);
             return order;
@@ -107,26 +103,27 @@ namespace SalesBicycleStore.Services
                 var pointsAdded = (int)Math.Floor(taxable / 100000m); // 100k = 1 điểm
                 member.Points += pointsAdded;
                 _customerRepo.Update(member);
-                var handler = PointsAccrued;
-                if (handler != null) handler(this, new PointsAccruedEventArgs(member.CustomerId, member.FullName, pointsAdded, member.Points));
+                PointsAccrued?.Invoke(this, new PointsAccruedEventArgs(member.CustomerId, member.FullName, pointsAdded, member.Points));
+
+                var oldTier = member.Tier;
+                if (member.Points >= 300)
+                    member.Tier = MemberTier.Platinum;
+                else if (member.Points >= 150)
+                    member.Tier = MemberTier.Gold;
+                else if (member.Points >= 50)
+                    member.Tier = MemberTier.Silver;
+                else
+                    member.Tier = MemberTier.Standard;
+
+                if (member.Tier != oldTier)
+                {
+                    TierUpgraded?.Invoke(this, new TierUpgradedEventArgs(
+                        member.CustomerId, member.FullName, oldTier, member.Tier
+                    ));
+                }
             }
             order.ChangeStatus(OrderStatus.Paid);
             _orderRepo.Update(order);
-            var oldTier = member.Tier;
-            if (member.Points >= 300)
-                member.Tier = MemberTier.Platinum;
-            else if (member.Points >= 150)
-                member.Tier = MemberTier.Gold;
-            else if (member.Points >= 50)
-                member.Tier = MemberTier.Silver;
-            else
-                member.Tier = MemberTier.Standard;
-            if (member.Tier != oldTier)
-            {
-                TierUpgraded?.Invoke(this, new TierUpgradedEventArgs(
-                    member.CustomerId, member.FullName, oldTier, member.Tier
-                ));
-            }
         }
         public string PrintReceipt(string orderNo)
         {

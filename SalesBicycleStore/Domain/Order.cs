@@ -1,10 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SalesBicycleStore.Pricing;
-using SalesRiceStore.Pricing;
 
 namespace SalesBicycleStore.Domain
 {
@@ -25,11 +24,8 @@ namespace SalesBicycleStore.Domain
         public decimal Total { get; private set; }
         private readonly IPriceRule _priceRule;
         private readonly IOrderDiscountPolicy _orderDiscount;
-        private  IOrderDiscountPolicy _orderSeasonalDiscount;
+        private readonly IOrderDiscountPolicy _orderSeasonalDiscount;
         private readonly ITaxCalculator _tax;
-        private IPriceRule priceRule;
-        private IOrderDiscountPolicy orderDiscount;
-        private ITaxCalculator tax;
 
         public event EventHandler<OrderStatusChangedEventArgs> OrderStatusChanged;
         public Order(Customer customer, IPriceRule priceRule, IOrderDiscountPolicy orderDiscount, IOrderDiscountPolicy orderSeasonalDiscount, ITaxCalculator tax)
@@ -58,9 +54,7 @@ namespace SalesBicycleStore.Domain
             if (newStatus == Status) return;
             var old = Status;
             Status = newStatus;
-            var handler = OrderStatusChanged;
-            if (handler != null)
-                handler(this, new OrderStatusChangedEventArgs(OrderNo, old, newStatus));
+            OrderStatusChanged?.Invoke(this, new OrderStatusChangedEventArgs(OrderNo, old, newStatus));
         }
         public void ApplyShippingFee(decimal fee)
         {

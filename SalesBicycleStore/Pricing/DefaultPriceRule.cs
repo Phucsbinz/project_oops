@@ -1,4 +1,4 @@
-﻿using SalesBicycleStore.Domain;
+using SalesBicycleStore.Domain;
 using SalesBicycleStore.Pricing;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SalesRiceStore.Pricing
+namespace SalesBicycleStore.Pricing
 {
     public class DefaultPriceRule : IPriceRule
     {

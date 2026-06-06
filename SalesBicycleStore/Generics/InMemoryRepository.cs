@@ -1,15 +1,13 @@
-﻿using System;
+using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 
 namespace SalesBicycleStore.Generics
 {
     public class InMemoryRepository<T, TKey> : IRepository<T, TKey> where T : class
     {
-        private readonly Dictionary<TKey, T> _store = new Dictionary<TKey, T>();
+        private readonly ConcurrentDictionary<TKey, T> _store = new ConcurrentDictionary<TKey, T>();
         private readonly Func<T, TKey> _keySelector;
 
         public InMemoryRepository(Func<T, TKey> keySelector)
@@ -26,12 +24,7 @@ namespace SalesBicycleStore.Generics
 
         public T GetById(TKey id)
         {
-            T value;
-            if (_store.TryGetValue(id, out value))
-            {
-                return value;
-            }
-            else { return null; }
+            return _store.TryGetValue(id, out var value) ? value : null;
         }
 
         public IEnumerable<T> GetAll()
@@ -47,7 +40,7 @@ namespace SalesBicycleStore.Generics
 
         public void Remove(TKey id)
         {
-            _store.Remove(id);
+            _store.TryRemove(id, out _);
         }
     }
 }

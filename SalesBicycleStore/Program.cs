@@ -2,7 +2,6 @@ using SalesBicycleStore.Domain;
 using SalesBicycleStore.Generics;
 using SalesBicycleStore.Pricing;
 using SalesBicycleStore.Services;
-using SalesRiceStore.Pricing;
 using System.Globalization;
 using System;
 

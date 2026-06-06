@@ -1,4 +1,4 @@
-﻿using SalesBicycleStore.Domain;
+using SalesBicycleStore.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,7 +23,6 @@ namespace SalesBicycleStore.Domain
             if (price <= 0) throw new ArgumentException("UnitPrice must be > 0");
             if (lineDiscountPercent < 0m || lineDiscountPercent > 0.5m) throw new ArgumentException("LineDiscountPercent out of range [0..0.5]");
             if (typeBicycle == null) throw new ArgumentNullException(nameof(typeBicycle));
-            if (material == null) throw new ArgumentNullException(nameof(material));
             Product = product;
             Quantity = quantity;
             Price = price;

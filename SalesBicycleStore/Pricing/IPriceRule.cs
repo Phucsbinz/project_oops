@@ -1,5 +1,4 @@
-﻿using SalesBicycleStore.Domain;
-using SalesRiceStore.Domain;
+using SalesBicycleStore.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
